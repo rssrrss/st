@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Hermit:pixelsize=13:antialias=true:autohint=true";
+static char *font = "JetBrainsMono:pixelsize=13:antialias=true:autohint=true";
 static char *font2[] = { "Symbola:pixelsize=16:antialias=true:autohint=true" };
 static int borderpx = 10;
 
